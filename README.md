@@ -35,7 +35,7 @@
   </a>
 <a href="https://github.com/" target="_blank" rel="noreferrer">
     <img
-      src="https://www.vectorlogo.zone/logos/github/github-ar21~bgwhite.svg"
+      src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"
       alt="Github"
       width="40"
       height="40"
