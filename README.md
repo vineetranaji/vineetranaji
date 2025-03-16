@@ -4,11 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vineetranaji&label=Profile%20views&color=0e75b6&style=flat" alt="vineetranaji" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vineetranaji" alt="vineetranaji" /></a> </p>
-
 - 👨‍💻 All of my projects are available at [https://github.com/vineetranaji/](https://github.com/vineetranaji/)
 
-- 💬 Ask me about **Cloud migration, Infrastructure-as-Code (IaC), Platform security & observability**
+- 💬 Ask me about **DevOps, AWS, Cloud migration, Infrastructure-as-Code (IaC), Platform security & observability**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -35,7 +33,24 @@
       height="40"
     />
   </a>
+<a href="https://github.com/" target="_blank" rel="noreferrer">
+    <img
+      src="https://www.vectorlogo.zone/logos/github/github-ar21~bgwhite.svg"
+      alt="Github"
+      width="40"
+      height="40"
+    />
+  </a>
 
+  <a href="https://github.com/copilot" target="_blank" rel="noreferrer">
+    <img
+      src="https://www.vectorlogo.zone/logos/github_copilot/github_copilot-ar21.svg"
+      alt="Github Copilot"
+      width="40"
+      height="40"
+    />
+  </a>
+  
   <a href="https://https://www.jenkins.io/" target="_blank" rel="noreferrer">
     <img
       src="https://www.vectorlogo.zone/logos/jenkins/jenkins-ar21.svg"
@@ -100,5 +115,3 @@
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vineetranaji&show_icons=true&locale=en&layout=compact" alt="vineetranaji" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vineetranaji&show_icons=true&locale=en" alt="vineetranaji" /></p>
