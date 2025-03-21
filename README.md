@@ -46,7 +46,7 @@
     <img
       src="https://www.vectorlogo.zone/logos/github_copilot/github_copilot-ar21.svg"
       alt="Github Copilot"
-      width="80"
+      width="110"
       height="50"
     />
   </a>
