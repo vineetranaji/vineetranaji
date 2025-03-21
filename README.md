@@ -20,7 +20,7 @@
     <img
       src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg"
       alt="aws"
-      width="50"
+      width="80"
       height="50"
     />
   </a>
@@ -37,7 +37,7 @@
     <img
       src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"
       alt="Github"
-      width="70"
+      width="80"
       height="50"
     />
   </a>
@@ -55,7 +55,7 @@
     <img
       src="https://www.vectorlogo.zone/logos/jenkins/jenkins-ar21.svg"
       alt="Jenkins"
-      width="50"
+      width="80"
       height="50"
     />
   </a>
@@ -64,7 +64,7 @@
     <img
       src="https://www.vectorlogo.zone/logos/ansible/ansible-ar21.svg"
       alt="Ansible"
-      width="50"
+      width="80"
       height="50"
     />
   </a>
