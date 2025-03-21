@@ -2,8 +2,6 @@
 <h3 align="center"> DevOps Engineer with 4.1+ years of experience in Infrastructure as a Code, automation, CI/CD pipeline management and build/release management. Skilled in infrastructure development, integrating resources, streamlining deployments, and leveraging configuration management while adhering to Cloud, DevOps & DevSecOps best practices. Specializing in cloud-native technologies, security automation, and performance optimization, with a strong background in CI/CD pipelines, infrastructure automation (Terraform, Ansible), and container orchestration.
 </h3>
 
-## Profile Views
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=vineetranaji&label=Profile%20views&color=0e75b6&style=flat" alt="vineetranaji" /> </p>
 
 - 👨‍💻 All of my projects are available at [https://github.com/vineetranaji/](https://github.com/vineetranaji/)
 
@@ -114,3 +112,6 @@
     />
   </a>
 </p>
+
+## Profile Views
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=vineetranaji&label=Profile%20views&color=0e75b6&style=flat" alt="vineetranaji" /> </p>
