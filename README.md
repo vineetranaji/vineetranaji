@@ -37,7 +37,7 @@
     <img
       src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"
       alt="Github"
-      width="50"
+      width="70"
       height="50"
     />
   </a>
@@ -46,7 +46,7 @@
     <img
       src="https://www.vectorlogo.zone/logos/github_copilot/github_copilot-ar21.svg"
       alt="Github Copilot"
-      width="50"
+      width="80"
       height="50"
     />
   </a>
