@@ -19,7 +19,7 @@
     <img
       src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg"
       alt="aws"
-      width="80"
+      width="85"
       height="50"
     />
   </a>
@@ -72,7 +72,7 @@
     <img
       src="https://www.vectorlogo.zone/logos/python/python-icon.svg"
       alt="python"
-      width="50"
+      width="60"
       height="50"
     />
   </a>
@@ -81,7 +81,7 @@
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/powershell/powershell-original.svg"
       alt="powershell"
-      width="50"
+      width="60"
       height="50"
     />
   </a>
@@ -90,7 +90,7 @@
     <img
       src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg"
       alt="docker"
-      width="50"
+      width="60"
       height="50"
     />
   </a>
@@ -99,7 +99,7 @@
     <img
       src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
       alt="git"
-      width="50"
+      width="60"
       height="50"
     />
   </a>
@@ -107,7 +107,7 @@
     <img
       src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg"
       alt="kubernetes"
-      width="50"
+      width="60"
       height="50"
     />
   </a>
