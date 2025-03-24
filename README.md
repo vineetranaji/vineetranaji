@@ -99,7 +99,7 @@
     <img
       src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
       alt="git"
-      width="60"
+      width="55"
       height="50"
     />
   </a>
@@ -107,7 +107,7 @@
     <img
       src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg"
       alt="kubernetes"
-      width="60"
+      width="55"
       height="50"
     />
   </a>
