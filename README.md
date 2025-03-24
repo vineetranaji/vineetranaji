@@ -81,7 +81,7 @@
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/powershell/powershell-original.svg"
       alt="powershell"
-      width="60"
+      width="55"
       height="50"
     />
   </a>
@@ -90,7 +90,7 @@
     <img
       src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg"
       alt="docker"
-      width="60"
+      width="55"
       height="50"
     />
   </a>
