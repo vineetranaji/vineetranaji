@@ -18,7 +18,7 @@
 <a href="https://https://aws.amazon.com/" target="_blank" rel="noreferrer">
     <img
       src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg"
-      alt="AWS"
+      alt="aws"
       width="85"
       height="50"
     />
