@@ -1,5 +1,5 @@
 <h1 align="center">Hey👋, I'm Vineet Rana</h1>
-<h3 align="center"> DevOps Engineer with 4.1+ years of experience in Infrastructure as a Code, automation, CI/CD pipeline management and build/release management. Skilled in infrastructure development, integrating resources, streamlining deployments, and leveraging configuration management while adhering to Cloud, DevOps & DevSecOps best practices. Specializing in cloud-native technologies, security automation, and performance optimization, with a strong background in CI/CD pipelines, infrastructure automation (Terraform, Ansible), and container orchestration.
+<h3 align="center"> DevOps Engineer with 4.5+ years of experience in Infrastructure as a Code, automation, CI/CD pipeline management and build/release management. Skilled in infrastructure development, integrating resources, streamlining deployments, and leveraging configuration management while adhering to Cloud, DevOps & DevSecOps best practices. Specializing in cloud-native technologies, security automation, and performance optimization, with a strong background in CI/CD pipelines, infrastructure automation (Terraform, Ansible), and container orchestration.
 </h3>
 
 
